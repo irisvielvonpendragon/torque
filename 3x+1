@@ -34,4 +34,5 @@ public class ClassCollatz {
 		new ClassCollatz().start();
 	}
 	
+	
 }
